@@ -8,6 +8,7 @@
 #define CASL_H
 
 // Project Includes
+#include "data_structures/auto_array.h"
 #include "data_structures/bloom.h"
 
 #include "hashes/simple.h"
